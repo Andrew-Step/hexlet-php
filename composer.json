@@ -1,0 +1,12 @@
+{
+    "name": "step1609/hexlet-php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andrew Stepanov",
+            "email": "an.step88@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
