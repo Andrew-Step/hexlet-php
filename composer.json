@@ -1,5 +1,10 @@
 {
     "name": "step1609/hexlet-php",
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "type": "library",
     "authors": [
         {
